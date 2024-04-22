@@ -21,7 +21,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
 **bash**
-git clone https://github.com/your_username/weather-app.git
+git clone git clone https://github.com/NtandoMgo/tkinter-weather-dashboard.git
 
 ## Usage
 1. Replace "YOUR_API_KEY" in the code with your actual OpenWeatherMap API key.
